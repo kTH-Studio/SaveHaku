@@ -1,4 +1,8 @@
 [{"music":"https://kth-studio.github.io/SaveHaku/Bikini%20Bottom/Bikini%20Bottom/music.mp3",
 "image":"https://kth-studio.github.io/SaveHaku/Bikini%20Bottom/image.jpg",
 "artist":"Save Haku",
-"name":"Bikini Bottom"}]
+"artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Save Haku\",\"image\":\"https://kth-studio.github.io/SaveHaku/image.jpg\",\"link\":\"https://kth-studio.github.io/SaveHaku/link.json\"}]",
+	"album":"Bikini Bottom - Single",
+"album_uri":"https://kth-studio.github.io/SaveHaku/Bikini%20Bottom/link.json",
+"name":"Bikini Bottom",
+"explicit":"no"}]

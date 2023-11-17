@@ -3,4 +3,8 @@
 "previous":"https://kth-studio.github.io/SaveHaku/Sailor%20Moon/Sailor%20Mercury/link.json",
 "next":"https://kth-studio.github.io/SaveHaku/Sailor%20Moon/Sailor%20Venus/link.json",
 "artist":"Save Haku",
-"name":"Sailor Mars"}]
+"artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Save Haku\",\"image\":\"https://kth-studio.github.io/SaveHaku/image.jpg\",\"link\":\"https://kth-studio.github.io/SaveHaku/link.json\"}]",
+"album":"Sailor Moon - EP",
+"album_uri":"https://kth-studio.github.io/SaveHaku/Sailor%20Moon/link.json",
+"name":"Sailor Mars",
+"explicit":"yes"}]

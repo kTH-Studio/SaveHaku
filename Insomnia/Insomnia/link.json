@@ -1,4 +1,8 @@
 [{"music":"https://kth-studio.github.io/SaveHaku/Insomnia/Insomnia/music.mp3",
 "image":"https://kth-studio.github.io/SaveHaku/Insomnia/image.jpg",
 "artist":"Save Haku",
-"name":"Insomnia"}]
+"artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Save Haku\",\"image\":\"https://kth-studio.github.io/SaveHaku/image.jpg\",\"link\":\"https://kth-studio.github.io/SaveHaku/link.json\"}]",
+"album":"Insomnia - Single",
+"album_uri":"https://kth-studio.github.io/SaveHaku/Insomnia/link.json",
+"name":"Insomnia",
+"explicit":"yes"}]
