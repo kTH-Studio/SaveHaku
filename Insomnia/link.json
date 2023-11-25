@@ -1,4 +1,5 @@
-[{"name":"Insomnia - Single",
+[{"name":"Insomnia",
+"additional":"single",
 "artist":"Save Haku",
 "artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Save Haku\",\"image\":\"https://kth-studio.github.io/SaveHaku/image.jpg\",\"link\":\"https://kth-studio.github.io/SaveHaku/link.json\"}]",
 "genre_en":"Hip-Hop/Rap","genre_de":"Hip-Hop/Rap","genre_ru":"Хип-Хоп/Рэп",
