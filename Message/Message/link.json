@@ -1,0 +1,10 @@
+[{"music":"https://kth-studio.github.io/SaveHaku/Message/Message/music.mp3",
+"image":"https://kth-studio.github.io/SaveHaku/Message/image.jpg",
+"info":"https://kth-studio.github.io/SaveHaku/Message/Message/info.json",
+"artist":"Save Haku",
+"artist_uri":"[{\"info_en\":\"Artist\",\"info_ru\":\"Артист\",\"info_de\":\"Interpret:in\",\"name\":\"Save Haku\",\"image\":\"https://kth-studio.github.io/SaveHaku/image.jpg\",\"link\":\"https://kth-studio.github.io/SaveHaku/link.json\"}]",
+"additional":"single",
+"album":"Message",
+"album_uri":"https://kth-studio.github.io/SaveHaku/Message/link.json",
+"name":"Message",
+"explicit":"no"}]
