@@ -1,5 +1,6 @@
 [{"image":"/SaveHaku/image.jpg",
 "image4k":"/SaveHaku/image4k.jpg",
+"color":"2",
 "name":"Save Haku",
 "latest":"[{\"name\":\"Message\",\"artist\":\"Save Haku\",\"link\":\"/SaveHaku/Message/link.json\",\"date\":\"15\",\"month\":\"Dec\",\"year\":\"2023\",\"min\":\"2\",\"min_add\":\"2\",\"sec\":\"40\",\"sec_add\":\"3\",\"explicit\":\"no\",\"image\":\"/SaveHaku/Message/image.jpg\"}]",
 "top":"[{\"image\":\"/SaveHaku/Insomnia/image.jpg\",\"time\":\"02:27\",\"name\":\"Insomnia\",\"album\":\"Insomnia\",\"year\":\"2021\",\"explicit\":\"yes\",\"link\":\"/SaveHaku/Insomnia/Insomnia/link.json\",\"info\":\"/SaveHaku/Insomnia/Insomnia/info.json\"},{\"image\":\"/SaveHaku/Message/image.jpg\",\"time\":\"02:40\",\"name\":\"Message\",\"album\":\"Message\",\"year\":\"2023\",\"explicit\":\"no\",\"link\":\"/SaveHaku/Message/Message/link.json\",\"info\":\"/SaveHaku/Message/Message/info.json\"}]",
